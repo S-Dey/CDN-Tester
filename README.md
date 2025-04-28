@@ -1,2 +1,0 @@
-# CDN-Tester
-Temp repository
